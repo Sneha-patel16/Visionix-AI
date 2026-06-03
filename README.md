@@ -1,2 +1,2 @@
-# Datamind-ai
-AI-powered automated data analytics platform for data cleaning, EDA, machine learning, dashboard generation, and intelligent business insights.
+#Visionix Ai
+AI-powered data analytics and business intelligence platform for automated data cleaning, EDA, visualization, machine learning, dashboard generation, and intelligent insights.
